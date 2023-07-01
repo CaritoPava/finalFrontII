@@ -1,0 +1,23 @@
+.nav>div {
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav>div>ul {
+  display: flex;
+  align-items: center;
+}
+
+.nav>div>ul>li {
+  display: flex;
+  list-style: none;
+  margin-left: 2rem;
+}
+
+.buttonTheme {
+  padding: 10px;
+  border-radius: 5px;
+}
